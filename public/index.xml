@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ndrsndrsdotcom</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ndrsndrsdotcom</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2024 16:04:50 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Last One</title>
+      <link>http://localhost:1313/posts/the-last-one/</link>
+      <pubDate>Tue, 31 Dec 2024 16:04:50 -0700</pubDate>
+      <guid>http://localhost:1313/posts/the-last-one/</guid>
+      <description>&lt;p&gt;1.0&lt;/p&gt;&#xA;&lt;p&gt;This is my first commit to &lt;em&gt;my personal blog&lt;/em&gt;.&#xA;The goal is to share personal projects that I&amp;rsquo;m currently working, and function like a EE Resume.&#xA;So if you&amp;rsquo;re reading all of this stuff tysm, I hope you find it inspired :).&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Happy new year eve and see you tomorrow&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;ndrs&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
